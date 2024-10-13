@@ -1,0 +1,26 @@
+﻿D:\vs\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(SpringDemo_1.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  源.cpp
+C:\Users\王山虎\Desktop\新建文件夹\c报告\Seasons\SpringDemo\源.cpp(27,32): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\王山虎\Desktop\新建文件夹\c报告\Seasons\SpringDemo\源.cpp(28,34): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\王山虎\Desktop\新建文件夹\c报告\Seasons\SpringDemo\源.cpp(35,32): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\王山虎\Desktop\新建文件夹\c报告\Seasons\SpringDemo\源.cpp(36,34): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\王山虎\Desktop\新建文件夹\c报告\Seasons\SpringDemo\源.cpp(43,31): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\王山虎\Desktop\新建文件夹\c报告\Seasons\SpringDemo\源.cpp(43,19): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\王山虎\Desktop\新建文件夹\c报告\Seasons\SpringDemo\源.cpp(54,32): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\王山虎\Desktop\新建文件夹\c报告\Seasons\SpringDemo\源.cpp(55,34): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\王山虎\Desktop\新建文件夹\c报告\Seasons\SpringDemo\源.cpp(63,31): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\王山虎\Desktop\新建文件夹\c报告\Seasons\SpringDemo\源.cpp(63,19): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\王山虎\Desktop\新建文件夹\c报告\Seasons\SpringDemo\源.cpp(81,28): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\王山虎\Desktop\新建文件夹\c报告\Seasons\SpringDemo\源.cpp(82,30): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\王山虎\Desktop\新建文件夹\c报告\Seasons\SpringDemo\源.cpp(90,53): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\王山虎\Desktop\新建文件夹\c报告\Seasons\SpringDemo\源.cpp(90,29): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\王山虎\Desktop\新建文件夹\c报告\Seasons\SpringDemo\源.cpp(91,53): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\王山虎\Desktop\新建文件夹\c报告\Seasons\SpringDemo\源.cpp(91,29): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\王山虎\Desktop\新建文件夹\c报告\Seasons\SpringDemo\源.cpp(236,29): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\王山虎\Desktop\新建文件夹\c报告\Seasons\SpringDemo\源.cpp(236,17): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\王山虎\Desktop\新建文件夹\c报告\Seasons\SpringDemo\源.cpp(264,38): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\王山虎\Desktop\新建文件夹\c报告\Seasons\SpringDemo\源.cpp(265,38): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\王山虎\Desktop\新建文件夹\c报告\Seasons\SpringDemo\源.cpp(287,28): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\王山虎\Desktop\新建文件夹\c报告\Seasons\SpringDemo\源.cpp(288,30): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+  LINK : 没有找到 C:\Users\王山虎\Desktop\新建文件夹\c报告\Seasons\x64\Debug\SpringDemo.exe 或上一个增量链接没有生成它；正在执行完全链接
+  SpringDemo.vcxproj -> C:\Users\王山虎\Desktop\新建文件夹\c报告\Seasons\x64\Debug\SpringDemo.exe
